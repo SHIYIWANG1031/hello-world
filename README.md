@@ -1,3 +1,3 @@
 # hello-world
-A repository 
+hi~
 Today is a good day!
